@@ -1,0 +1,183 @@
+                @media only screen and (max-width:1023px) {
+                    .navs_container {
+                        display: none;
+                    }
+                    .sponsor_img {
+                        height: 98px;
+                        box-shadow: 10px 3px 0px #efefef;
+                    }
+                    .about_bg {
+                        flex-direction: column;
+                        padding: 0px 20px;
+                    }
+                    .about_content {
+                        width: 100%;
+                        padding: 0px 0px 0px 0px;
+                        margin-top: 83em;
+                    }
+                    .about_bg1 {
+                        flex-direction: column;
+                        margin-top: 84em;
+                    }
+                    .about_act1 {
+                        flex-direction: column;
+                    }
+                    .about_act2 {
+                        flex-direction: column;
+                    }
+                    .about5 img {
+                        width: 94%;
+                        padding: 0px;
+                    }
+                    .about5 {
+                        text-align: center;
+                    }
+                    .abbout {
+                        padding: 70px 19px;
+                    }
+                    .about_sub1 {
+                        width: 76%;
+                        margin: 30px auto;
+                        box-shadow: 0 0 17px 17px #efefef;
+                    }
+                    .mee {
+                        position: relative;
+                        left: 0;
+                    }
+                    .mee1 {
+                        position: relative;
+                        top: -55px;
+                    }
+                    .service_info {
+                        flex-direction: column;
+                        padding: 0px;
+                    }
+                    .service_info1 {
+                        flex-direction: column;
+                    }
+                    .service_content {
+                        padding-left: 0px;
+                        text-align: center;
+                    }
+                    .solution {
+                        flex-direction: column;
+                    }
+                    .what h1 {
+                        text-align: center;
+                        line-height: 31px;
+                        padding: 0px 10px
+                    }
+                    .para {
+                        font-size: 20px;
+                    }
+                    .service_bg {
+                        padding-top: 57px;
+                        height: 155em;
+                    }
+                    .service_info_content {
+                        width: 91%;
+                        margin: 20px auto;
+                        padding: 0px;
+                    }
+                    .service_info1 {
+                        padding: 0px;
+                    }
+                    .at {
+                        padding: 0px 18px;
+                    }
+                    .at1 {
+                        padding: 0px 18px;
+                    }
+                    .intro_btn {
+                        padding: 8px 15px;
+                        border-radius: 7px;
+                    }
+                    .over2 {
+                        line-height: 30px;
+                    }
+                    .choose_us {
+                        flex-direction: column;
+                        padding: 130px 0px;
+                    }
+                    .choose_image img {
+                        width: 95%em;
+                    }
+                    .choose_text {
+                        padding: 31px 13px;
+                    }
+                    .choose_text2 h1 {
+                        font-size: 24px;
+                        line-height: 36px;
+                        text-align: center;
+                    }
+                    .choose_text3 p {
+                        line-height: 27px;
+                    }
+                    .process {
+                        font-size: 14px;
+                        padding-left: 14px;
+                    }
+                    .contact {
+                        flex-direction: column;
+                        height: 80em;
+                    }
+                    .first_contact {
+                        width: 88%;
+                        text-align: center;
+                        margin: 0 auto;
+                    }
+                    .sub_contact1 {
+                        width: 95%;
+                        margin: 0 auto;
+                    }
+                    .first_text h1 {
+                        font-size: 28px;
+                        text-align: center;
+                    }
+                    .intro_background h2 {
+                        font-size: 18px;
+                    }
+                    .sub_contact {
+                        padding: 20px 26px;
+                    }
+                    .blog2 {
+                        flex-direction: column;
+                    }
+                    .first_blog {
+                        width: 90%;
+                        margin: 10px auto;
+                        height: 39em;
+                    }
+                    .first_blog_text p {
+                        line-height: 30px;
+                    }
+                    .first_blog_text h2 {
+                        line-height: 36px;
+                    }
+                    .building {
+                        line-height: 36px;
+                    }
+                    .testimonials {
+                        flex-direction: column;
+                    }
+                    .testimonial_image {
+                        width: 100%;
+                        padding: 0px;
+                        text-align: center;
+                    }
+                    .testimonial_content {
+                        padding: 30px 25px;
+                        width: 83%;
+                    }
+                    .komo_coat {
+                        padding-left: 0px;
+                    }
+                    .amos p {
+                        font-size: 11px;
+                        padding-left: 10px;
+                    }
+                    .amos h2 {
+                        font-size: 15px;
+                        padding-left: 10px;
+                    }
+                }
