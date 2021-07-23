@@ -578,6 +578,7 @@
     
     .komo_about {
         display: flex;
+        margin: 50em 0px 40px;
         align-items: center;
         justify-content: space-around;
     }
@@ -609,12 +610,16 @@
     }
     
     a {
-        text-decoration: none;
+        text-decoration: none !important;
         color: #fff !important;
     }
     
     .logo_image {
         width: 34%;
+    }
+    
+    p {
+        margin-bottom: 0 !important;
     }
     
     .about_navs {
@@ -656,9 +661,15 @@
     }
     
     .about_content1 {
-        width: 38%;
+        width: 47%;
         line-height: 36px;
         padding: 0px 52px;
+    }
+    
+    .about_content1 h1 {
+        font-size: 26px;
+        font-weight: 800;
+        line-height: 40px;
     }
     
     .about_image {
@@ -860,4 +871,8 @@
     
     .aabout h3 {
         color: #375fe2;
+    }
+    
+    .aboutnav {
+        display: none !important;
     }
