@@ -1,10 +1,58 @@
                 @media only screen and (max-width:1023px) {
                     .navs_container {
                         display: none;
+                        text-align: center;
+                        z-index: 2;
+                        background-color: #071017;
+                    }
+                    .logo {
+                        margin-left: 0em;
+                        width: 18%;
+                    }
+                    .mynavnav {
+                        text-align: center;
+                    }
+                    .mybrand {
+                        width: 75%;
+                    }
+                    .komo_content h1 {
+                        font-size: 21px;
+                        /* margin-top: -15px; */
+                        position: relative;
+                        top: -10px;
+                        font-weight: bold;
+                    }
+                    .komo_content {
+                        margin-top: -9em;
+                        line-height: 15px;
+                        font-size: 9px;
+                        font-weight: bold;
+                    }
+                    .mytoggler {
+                        background-color: #fff !important;
+                    }
+                    .welcome {
+                        text-align: center;
+                        /* margin-top: 21em; */
+                        /* color: #000; */
+                    }
+                    .header_container {
+                        flex-direction: column-reverse;
+                    }
+                    /* .intro_background {
+                        position: relative;
+                        top: -322px;
+                    } */
+                    .navv {
+                        display: block;
                     }
                     .sponsor_img {
                         height: 98px;
                         box-shadow: 10px 3px 0px #efefef;
+                        /* margin-top: -20em; */
+                    }
+                    .about_navs {
+                        display: none;
                     }
                     .about_bg {
                         flex-direction: column;
@@ -13,7 +61,7 @@
                     .about_content {
                         width: 100%;
                         padding: 0px 0px 0px 0px;
-                        margin-top: 83em;
+                        margin-top: 92em;
                     }
                     .about_bg1 {
                         flex-direction: column;
@@ -34,9 +82,10 @@
                     }
                     .abbout {
                         padding: 70px 19px;
+                        line-height: 30px;
                     }
                     .about_sub1 {
-                        width: 76%;
+                        width: 95%;
                         margin: 30px auto;
                         box-shadow: 0 0 17px 17px #efefef;
                     }
@@ -56,11 +105,22 @@
                         flex-direction: column;
                     }
                     .service_content {
+                        flex-direction: column;
                         padding-left: 0px;
                         text-align: center;
+                        line-height: 33px;
                     }
                     .solution {
                         flex-direction: column;
+                    }
+                    .about_header {
+                        display: none;
+                        justify-content: space-around;
+                    }
+                    .para h1 {
+                        font-size: 13px;
+                        line-height: 21px;
+                        font-weight: lighter;
                     }
                     .what h1 {
                         text-align: center;
@@ -120,6 +180,22 @@
                     .contact {
                         flex-direction: column;
                         height: 80em;
+                        padding: 0;
+                    }
+                    .contact_info {
+                        display: block;
+                    }
+                    .get_started {
+                        margin-top: 20px;
+                    }
+                    .email {
+                        padding-left: 0px;
+                    }
+                    .choose_us1 {
+                        line-height: 33px;
+                    }
+                    .let_talk {
+                        margin-top: 45px;
                     }
                     .first_contact {
                         width: 88%;
@@ -179,5 +255,51 @@
                     .amos h2 {
                         font-size: 15px;
                         padding-left: 10px;
+                    }
+                    .komo_about {
+                        flex-direction: column;
+                        text-align: center;
+                        padding: 0px 10px;
+                        margin-bottom: 50px;
+                    }
+                    .about_content1 {
+                        width: 100%;
+                        padding: 0;
+                    }
+                    .the_process {
+                        flex-direction: column;
+                        text-align: center;
+                    }
+                    .main_form {
+                        flex-direction: column;
+                        margin: 88px auto 0px;
+                        padding-bottom: 30px;
+                    }
+                    .forms {
+                        flex-direction: column;
+                        text-align: center;
+                    }
+                    .form_image {
+                        width: 100%;
+                    }
+                    .about_teachers {
+                        flex-direction: column;
+                    }
+                    .about_us {
+                        margin: 26px auto;
+                    }
+                    .team_one {
+                        width: 100%;
+                        padding: 33px 0px;
+                    }
+                    .process_images {
+                        padding: 25px 0px;
+                    }
+                    .msg-form {
+                        width: 17.5em;
+                        height: 8em;
+                    }
+                    .form_submit button {
+                        margin-left: 2em;
                     }
                 }
