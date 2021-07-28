@@ -267,6 +267,21 @@
                 width: 100%;
                 padding: 0;
             }
+            .about_hero {
+                font-size: 25px;
+                text-align: center;
+                padding: 148px 0px;
+            }
+            .about_hero h1 {
+                font-size: 25px;
+            }
+            .about_hero {
+                font-size: 11px;
+                font-weight: bold;
+            }
+            .komo_about {
+                margin: 6em 0px 40px;
+            }
             .the_process {
                 flex-direction: column;
                 text-align: center;
@@ -318,5 +333,24 @@
             }
             .aboutnav {
                 display: block !important;
+            }
+            .komo_about1 {
+                margin: 0em 0px 40px;
+            }
+            .about_image1 {
+                margin-top: 3em;
+            }
+            .tracker {
+                flex-direction: column;
+                margin-bottom: 0em;
+            }
+            .my_about {
+                color: #000;
+                margin-top: 5em;
+            }
+            .sub_tracker {
+                width: 92%;
+                margin: 20px 10px;
+                padding: 12px 22px;
             }
         }
